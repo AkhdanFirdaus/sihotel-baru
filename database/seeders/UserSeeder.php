@@ -19,6 +19,7 @@ class UserSeeder extends Seeder
         $adm->name = 'Akhdan Musyaffa Firdaus';
         $adm->email = 'akhdan@email.com';
         $adm->password = bcrypt('password');
+        $adm->phone_number = '089624289097';
         $adm->save();
 
         $resepsionis = new User();
@@ -26,6 +27,7 @@ class UserSeeder extends Seeder
         $resepsionis->name = 'Nurul Aulia Dewi';
         $resepsionis->email = 'nurul@email.com';
         $resepsionis->password = bcrypt('password');
+        $resepsionis->phone_number = '08219831273';
         $resepsionis->save();
 
         $manager = new User();
@@ -33,6 +35,7 @@ class UserSeeder extends Seeder
         $manager->name = 'Zulfa Dwi Audina';
         $manager->email = 'audi@email.com';
         $manager->password = bcrypt('password');
+        $manager->phone_number = '08237192';
         $manager->save();
     }
 }

@@ -18,8 +18,8 @@ class RoomFactory extends Factory
         return [
             'hotel_id' => $this->faker->numberBetween(1, 15),
             'code' => $this->faker->word,
-            'price' => $this->faker->randomNumber(2),
-            'status' => $this->faker->numberBetween(0, 1),
+            'price' => $this->faker->randomNumber(6),
+            'status' => 0,
         ];
     }
 }

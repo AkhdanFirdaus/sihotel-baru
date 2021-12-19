@@ -15,6 +15,7 @@ class AddRoleIdToUserTable extends Migration
     {
         Schema::table('users', function (Blueprint $table) {
             $table->unsignedBigInteger('role_id')->after('id');
+            $table->string('phone_number')->after('password');
         });
     }
 
@@ -26,7 +27,7 @@ class AddRoleIdToUserTable extends Migration
     public function down()
     {
         Schema::table('users', function (Blueprint $table) {
-            $table->dropColumn('role_id');
+            $table->dropColumn(['role_id', 'phone_number']);
         });
     }
 }
