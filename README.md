@@ -7,60 +7,52 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About Sihotel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+![Invasi Merona](./public/img/coollogo.png)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## About Invasi Merona
+Invasi Merona adalah sistem perangkat lunak informasi vaksin Indonesia melawan corona untuk mendata dan memberikan informasi mengenai vaksin covid19 dalam skala nasional. Dalam sistem perangkat lunak ini pengguna dapat melakukan reservasi untuk melakukan vaksin bahkan mengetahui mengenai perkembangan virus covid 19 ini beserta perkembangan vaksin untuk mencegahnya
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## TIM
+- Akhdan Musyaffa F (1197050010)
+- Nurul Aulia Dewi (1197050102)
+- Zulfa Dwi Audina (1197050134)
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+# PPAW-B, Informatika UIN Sunan Gunung Djati Bandung
+### Mata Kuliah Praktikum Pemrograman Aplikasi Web
+### Dosen Pengampu : Popon Dauni ST., M.Kom.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+# Beberapa Screenshoots Aplikasi
 
-## Laravel Sponsors
+Halaman Awal
+![Halaman Awal](./public/img/screenshoots/lihat_review.png)
+![Halaman Awal - Lihat Pemesanan](./public/img/screenshoots/lihat_pemesanan.png)
+![Halaman Utama - Lihat Rekomendasi](./public/img/screenshoots/lihat_recommendasi.png)
+![Halaman Utama - Lihat Review](./public/img/screenshoots/lihat_review.png)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
+Hasil Pencarian
+![Halaman Hasil Pencarian](./public/img/screenshoots/halaman_detail_pemesanan.png)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-- **[Romega Software](https://romegasoftware.com)**
+Detail Hotel
+![Halaman Detail Hotel](./public/img/screenshoots/halaman_detail_hotel.png)
 
-## Contributing
+Halaman Pemesanan
+![Halaman Detail Pemesanan](./public/img/screenshoots/halaman_detail_pemesanan.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Halaman Verifikasi Pemesanan
+![Halaman Verifikasi Pemesanan](./public/img/screenshoots/halaman_verifikasi.png)
 
-## Code of Conduct
+Halaman Lihat Pemesanan
+![Halaman Lihat Pemesanan](./public/img/screenshoots/halaman_lihat_pemsanan.png)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Halaman Dashboard Utama
+![Halaman Dashboard Utama](./public/img/screenshoots/dashboard_member.png)
 
-## Security Vulnerabilities
+Halaman Dashboard Pemesanan
+![Halaman Dashboard Pemesanan](./public/img/screenshoots/dashboard_member.png)
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Halaman Dashboard Pengguna
+![Halaman Dashboard Pengguna](./public/img/screenshoots/dashboard_member.png)
