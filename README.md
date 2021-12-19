@@ -36,32 +36,32 @@ Merupakan website untuk melakukan pemesanan hotel.
 
 # Beberapa Screenshoots Aplikasi
 
-###Halaman Awal
+##Halaman Awal
 ![Halaman Awal](./public/img/screenshoots/lihat_review.png)
 ![Halaman Awal - Lihat Pemesanan](./public/img/screenshoots/lihat_pemesanan.png)
 ![Halaman Utama - Lihat Rekomendasi](./public/img/screenshoots/lihat_recommendasi.png)
 ![Halaman Utama - Lihat Review](./public/img/screenshoots/lihat_review.png)
 
-###Hasil Pencarian
+##Hasil Pencarian
 ![Halaman Hasil Pencarian](./public/img/screenshoots/halaman_detail_pemesanan.png)
 
-###Detail Hotel
+##Detail Hotel
 ![Halaman Detail Hotel](./public/img/screenshoots/halaman_detail_hotel.png)
 
-###Halaman Pemesanan
+##Halaman Pemesanan
 ![Halaman Detail Pemesanan](./public/img/screenshoots/halaman_detail_pemesanan.png)
 
-###Halaman Verifikasi Pemesanan
+##Halaman Verifikasi Pemesanan
 ![Halaman Verifikasi Pemesanan](./public/img/screenshoots/halaman_verifikasi.png)
 
-###Halaman Lihat Pemesanan
+##Halaman Lihat Pemesanan
 ![Halaman Lihat Pemesanan](./public/img/screenshoots/halaman_lihat_pemsanan.png)
 
-###Halaman Dashboard Utama
+##Halaman Dashboard Utama
 ![Halaman Dashboard Utama](./public/img/screenshoots/dashboard_member.png)
 
-###Halaman Dashboard Pemesanan
+##Halaman Dashboard Pemesanan
 ![Halaman Dashboard Pemesanan](./public/img/screenshoots/dashboard_member.png)
 
-###Halaman Dashboard Pengguna
+##Halaman Dashboard Pengguna
 ![Halaman Dashboard Pengguna](./public/img/screenshoots/dashboard_member.png)
