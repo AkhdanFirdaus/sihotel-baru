@@ -9,6 +9,10 @@ class Location extends Model
 {
     use HasFactory;
 
+    protected $guarded = ['id', 'created_at', 'updated_at'];
+
+    protected $fillable = ['location_name'];
+
     public function hotels()
     {
         return $this->hasMany(Hotel::class);

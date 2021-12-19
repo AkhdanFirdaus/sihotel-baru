@@ -18,7 +18,7 @@ class CreateRoomsTable extends Migration
             $table->unsignedBigInteger('hotel_id')->unsigned();
             $table->string('code');
             $table->float('price');
-            $table->enum('status', ['Available', 'Booked']);
+            $table->tinyInteger('status');
             $table->timestamps();
         });
     }

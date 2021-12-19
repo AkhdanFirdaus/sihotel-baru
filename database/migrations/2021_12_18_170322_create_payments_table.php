@@ -21,7 +21,7 @@ class CreatePaymentsTable extends Migration
             $table->float('total')->nullable();
             $table->string('payment_method')->nullable();
             $table->string('credit_number')->nullable();
-            $table->enum('status', ['Waiting List', 'Down Payment', 'Paid']);
+            $table->tinyInteger('status');
             $table->timestamps();
         });
     }
