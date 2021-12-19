@@ -36,7 +36,7 @@
                                 <dd class="col">{{ $detail['checkin'] }}</dd>
                             </dl>
                             <dl class="row mb-0">
-                                <dt class="col-4">Check In</dt>
+                                <dt class="col-4">Check Out</dt>
                                 <dd class="col">{{ $detail['checkout'] }}</dd>
                             </dl>
                         </div>

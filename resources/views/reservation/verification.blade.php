@@ -71,7 +71,7 @@
             {!! Form::close() !!}
         </div>
         <div class="col-lg-5">
-            <div class="position-fixed">
+            <div class="">
                 <div class="card" style="width: 25rem;">
                     <div class="card-header bg-primary text-light">Detail Pemesanan</div>
                     <div class="card-body">

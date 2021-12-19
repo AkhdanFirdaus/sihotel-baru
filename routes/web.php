@@ -47,3 +47,10 @@ Route::prefix('hotel')->group(function () {
     Route::post('/', [HotelController::class, 'search'])->name('hotel.search');
     Route::get('{hotel}', [HotelController::class, 'show'])->name('hotel.show');
 });
+
+Route::prefix('dashboard')->group(function () {
+    Route::get('/', [HomeController::class, 'dashboard'])->name('dashboard.index');
+    Route::get('pengguna', [HomeController::class, 'dashboardPengguna'])->name('dashboard.pengguna');
+    Route::get('pemesanan', [HomeController::class, 'dashboardPemesanan'])->name('dashboard.pemesanan');
+    Route::get('hotel', [HomeController::class, 'dashboardHotel'])->name('dashboard.hotel');
+});
